@@ -15,6 +15,14 @@ PrefabInstance:
       propertyPath: entry
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: -8923236710688521418, guid: 2ec1b7e988a0e8e4e9b7e4de27910b1c, type: 3}
+      propertyPath: tileSize.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8923236710688521418, guid: 2ec1b7e988a0e8e4e9b7e4de27910b1c, type: 3}
+      propertyPath: tileSize.y
+      value: 30
+      objectReference: {fileID: 0}
     - target: {fileID: 669897576177842601, guid: 2ec1b7e988a0e8e4e9b7e4de27910b1c, type: 3}
       propertyPath: m_Layer
       value: 3
